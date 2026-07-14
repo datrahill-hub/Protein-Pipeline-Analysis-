@@ -22,7 +22,7 @@ Features:
 
 Why I Built This
 
-As part of my research, I wanted to reduce repetitive manual data processing and create a more reproducible analysis workflow. Rather than repeatedly organizing plate data and performing calculations by hand, I developed an automated pipeline that transforms raw assay measurements into normalized data, summary statistics, and publication-quality figures.
+I wanted to reduce repetitive manual data processing and create a more reproducible analysis workflow. Rather than repeatedly organizing plate data and performing calculations by hand, I developed an automated pipeline that transforms raw assay measurements into normalized data, summary statistics, and publication-quality figures.
 
 Developing this workflow sparked my interest in building software that improves scientific workflows. It showed me that thoughtfully designed tools can reduce repetitive work and allow researchers to spend more time interpreting results and conducting experiments.
 
