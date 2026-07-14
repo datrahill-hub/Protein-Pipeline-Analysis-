@@ -8,7 +8,7 @@ Contains a demonstration version of an R workflow I developed to automate assay 
 
 
 Features: 
-          Automated processing of laboratory assay data,
+          Automated processing of assay data,
           Blank correction and data normalization,
           Percent cell viability calculations (MTT assay),
           Percent infectivity calculations (β-gal assay),
