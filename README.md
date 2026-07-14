@@ -29,7 +29,3 @@ Developing this workflow sparked my interest in building software that improves 
 Future Development
 
 This repository represents the first version of a broader collection of scientific workflow automation projects. Future work will include interactive visualization tools, browser-based interfaces, and workflow applications designed to simplify common research tasks.
-
-Note
-
-This repository is intended for demonstration purposes. Representative synthetic data have been substituted for the original experimental measurements to protect research data while preserving the analytical workflow developed for laboratory use.
