@@ -8,17 +8,17 @@ Contains a demonstration version of an R workflow I developed to automate assay 
 
 
 Features: 
-          Automated processing of laboratory assay data
-          Blank correction and data normalization
-          Percent cell viability calculations (MTT assay)
-          Percent infectivity calculations (β-gal assay)
-          Automated summary statistics
-          Publication-quality visualizations using ggplot2
-          Reproducible workflow for scientific data analysis
-          tidyverse
-          ggplot2
-          dplyr
-          tidyr
+          Automated processing of laboratory assay data,
+          Blank correction and data normalization,
+          Percent cell viability calculations (MTT assay),
+          Percent infectivity calculations (β-gal assay),
+          Automated summary statistics,
+          Publication-quality visualizations using ggplot2,
+          Reproducible workflow for scientific data analysis,
+          tidyverse,
+          ggplot2,
+          dplyr,
+          tidyr.
 
 Why I Built This
 
